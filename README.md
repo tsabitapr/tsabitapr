@@ -13,6 +13,12 @@ I'm always open to collaborating on projects or just networking in general. If y
 
 Thank you!
 
+<p align="left">
+<a href="https://github.com/tsabitapr">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tsabitapr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tsabitapr&layout=compact&theme=algolia"/>
+</a>
+</p>
 
 
 <!--
