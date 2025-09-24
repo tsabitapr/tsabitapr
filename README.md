@@ -3,10 +3,19 @@
 My name is **Tsabita Putri Ramadhany**.
 
 ## About Me
-I am currently pursuing my degree in **Informatics Engineering** at [Institut Teknologi Sepuluh Nopember](https://www.its.ac.id/), where I am honing my skills in software development, data analysis, and machine learning. I am passionate about leveraging technology to solve real-world problems, and I'm always eager to learn new technologies and methodologies that can help me grow as a developer.
+I am an **Informatics Engineering** graduate from [Institut Teknologi Sepuluh Nopember](https://www.its.ac.id/), with strong enthusiasm in **Artificial Intelligence, Machine Learning, Data Science, and Data Analytics**.  
+I am passionate about transforming data into insights and building intelligent systems that solve real-world problems. With hands-on experience in **machine learning, deep learning, natural language processing, and computer vision**, I continuously seek opportunities to grow and contribute to innovative AI solutions.
 
+## Interests
+- Artificial Intelligence & Machine Learning  
+- Data Science & Data Analytics  
+- Natural Language Processing (NLP)  
+- Computer Vision  
+- Generative AI & LLMs
+  
 ## Connect With Me
-I'm always open to collaborating on projects or just networking in general. If you're interested in my work or have any opportunities you'd like to discuss, please don't hesitate to reach out to me.
+I'm always open to collaborating on AI/ML projects, research opportunities, or just networking in general.
+If you're interested in my work or have opportunities you'd like to discuss, please feel free to reach out!
 
 - [LinkedIn](https://www.linkedin.com/in/tsabita-putri-ramadhany/)
 - Email: bitharamadhany@gmail.com
